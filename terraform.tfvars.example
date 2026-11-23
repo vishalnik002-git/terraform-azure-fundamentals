@@ -1,0 +1,3 @@
+# Sample input variables for terraform-azure-fundamentals
+resource_group_name     = "rg-fundamentals-dev"
+resource_group_location = "eastus"
